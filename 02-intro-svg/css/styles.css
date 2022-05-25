@@ -1,0 +1,9 @@
+.graf{
+    background-color: #edede9;
+    border: 1px solid #d6ccc2;
+}
+
+.cuadro{ 
+    fill : yellow; 
+    stroke : red;
+    stroke-width : 5;  }
